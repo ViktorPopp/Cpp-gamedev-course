@@ -1,0 +1,2 @@
+# Full C++ Game Dev Course
+This is a full C++ game dev course where we will learn everything from the basics of programming in C++ to using libraries like EnTT for architecture, Raylib or SFML for graphics, and Box2D for 2D physics. This course will currently only contain guides for 2D game development. If you plan to make 3D i recommend using a game engine like Unity, or Godot instead as you not will develop a game but both the engine and the game.
